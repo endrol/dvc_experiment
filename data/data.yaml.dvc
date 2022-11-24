@@ -1,0 +1,4 @@
+outs:
+- md5: 6265b22b66502d70d5f004f08238ac3c
+  size: 10
+  path: data.yaml
